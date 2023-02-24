@@ -1,13 +1,14 @@
+#ifndef MAIN.H
+#define MAIN.H
+
+/**
+ * file - main.h
+ * Auther: Phame
+ * Desc: Protype for all functions
+ * For 0x04. C - More functions, more nested loops
+ */
+
 int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
-void print_numbers(void);
-void print_most_numbers(void);
-void more_numbers(void);
-void print_line(int n);
-void print_diagonal(int n);
-void print_square(int size);
-void print_triangle(int size); 
-root@4c7d03700900:/alx-low_level_programming/0x04-more_functions_nested_loops#  ls
-
